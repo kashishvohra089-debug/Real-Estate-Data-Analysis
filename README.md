@@ -1,3 +1,7 @@
+## Live Streamlit Dashboard
+Explore the interactive Real Estate Investment Advisor dashboard:
+https://real-estate-advisor-kv2026.streamlit.app/
+
 # Real Estate Data Analysis and Price Prediction
 
 ## Project Overview
